@@ -2,7 +2,7 @@
 
 This app accompanies the Ionic component documentation.
 
-[[LIVE DEMO]](http://ionicframework.com/docs/components/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jultan/emulo-ionic)
 
 ### Installation & Development
 
